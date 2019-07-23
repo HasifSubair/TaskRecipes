@@ -1,0 +1,6 @@
+{"cookTime":"PT3H","ingredients":"Beef","name":"ABC","prepTime":"PT"}
+{"cookTime":"PT","ingredients":"Beef","name":"DEF","prepTime":"PT45M"}
+{"cookTime":"","ingredients":"Beef","name":"GHI","prepTime":"PT15M"}
+{"cookTime":"PT2H","ingredients":"Veg","name":"JKL","prepTime":"PT5M"}
+{"cookTime":"PT45M","ingredients":"Veg","name":"MNO","prepTime":""}
+{"cookTime":"PT15M","ingredients":"Veg","name":"MNO","prepTime":"PT"}

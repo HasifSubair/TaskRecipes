@@ -1,7 +1,7 @@
-# Recipe Analysis
+# Task Recipes
 
-In Recipe Analyis we are building a dynamic data pipeline build by ordering tasks in the right sequence. Tasks are unit of operation
-with in the pipeline. All tasks must be a subclass of 'pipeline.task.Task' and override its execute method.
+In Task Recipes, we are building a dynamic data pipeline API by ordering tasks in sequence. Tasks are unit of operation
+with in the pipeline. All tasks must extend of 'pipeline.task.Task' and override its execute method.
 
 The tasks passed as ordered arguments to 'pipeline.executor.py' script.
 
